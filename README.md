@@ -79,6 +79,7 @@ A symbolic approach in Mathematica for reconstructing system dynamics from obser
 
 ## 📫 Contact & Collaboration:  
 _Thanks for visiting my profile — Feel free to reach out for collaborations, inquiries, or discussions._
+ 📧 **Email:** githmattk@gmail.com 
 - 🔗 **LinkedIn:** [linkedin.com/in/mahdikamer](https://www.linkedin.com/in/mahdikamer)
 - 🧪 **ORCID:** [0000-0003-2096-4184](https://orcid.org/0000-0003-2096-4184)
 
