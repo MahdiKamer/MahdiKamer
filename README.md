@@ -73,7 +73,7 @@ A symbolic approach in Mathematica for reconstructing system dynamics from obser
 - **Numerical Modelling:** Creating simulations to solve real-world engineering and scientific problems.
 - **Subsonic Continuum Electromagnetic Modelling:** Wave and force interaction.  
 - **Lightning** and **Laser** Interaction.
-- **Computational Methods:** In nonlinear control, transient analysis, and power electronics.
+- **Computational Methods:** In nonlinear control, crytanalysis, transient analysis, and power electronics.
 
 ---
 
