@@ -9,7 +9,7 @@
 
 I am an engineer with a cross-disciplinary background in **FPGA design**, **hardware accelerated algorithms**, **mathematical modelling**, and **electrical engineering**. My academic and professional journey has been shaped by a curiosity about **how physical systems can be abstracted, modelled, and optimised through computation**.
 
-With a PhD in Electrical Engineering and over seven years of specialised experience as an FPGA engineer, I have contributed to research at the intersection of hardware and software, particularly in **the reliability of digital systems**, **shared memory architectures**, and **parallel computing**.
+With a PhD in Electrical Engineering and over a decade of specialised experience as an FPGA engineer, I have contributed to research at the intersection of hardware and software, particularly in **the reliability of digital systems**, **shared memory architectures**, and **parallel computing**.
 
 My work spans from **low-level C and RTL design** to **symbolic modelling in Mathematica**, often integrating physical modelling techniques with computational frameworks to study complex systems.
 
